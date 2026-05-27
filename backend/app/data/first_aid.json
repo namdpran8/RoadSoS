@@ -1,0 +1,31 @@
+{
+  "bleeding": [
+    "Apply firm pressure to the wound",
+    "Use a clean cloth or bandage",
+    "Keep the injured area elevated if possible"
+  ],
+
+  "unconscious": [
+    "Check if the person is breathing",
+    "Do not move the neck or spine",
+    "Keep airway clear"
+  ],
+
+  "burn": [
+    "Cool the burn under running water",
+    "Do not apply ice directly",
+    "Cover with clean cloth"
+  ],
+
+  "fracture": [
+    "Do not move the injured limb",
+    "Immobilize the area if possible",
+    "Wait for medical assistance"
+  ],
+
+  "head injury": [
+    "Keep the victim still",
+    "Monitor consciousness",
+    "Call emergency services immediately"
+  ]
+}
