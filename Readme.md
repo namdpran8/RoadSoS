@@ -2,7 +2,9 @@
 
 <img src="https://img.shields.io/badge/RoadSoS-Emergency%20Response-E03131?style=for-the-badge&logoColor=white" alt="RoadSoS"/>
 
-# 🚨 RoadSoS
+# 🚨 ResQai
+<img width="760" height="315" alt="image" src="https://github.com/user-attachments/assets/30081912-dda9-4ba2-be91-6ed1a8ae4254" />
+
 ### *Help is One Tap Away*
 
 **AI-Powered Emergency Response for Road Accidents**
